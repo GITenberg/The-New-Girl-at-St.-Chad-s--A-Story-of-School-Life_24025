@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24025#The-New-Girl-at-St.-Chad-s--A-Story-of-School-Life
 gutenberg_bookshelf: School Stories
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
