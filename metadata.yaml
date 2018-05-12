@@ -1,0 +1,30 @@
+_repo: The-New-Girl-at-St.-Chad-s--A-Story-of-School-Life_24025
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24025-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PZ'
+title: 'The New Girl at St. Chad''s: A Story of School Life'
+url: http://www.gutenberg.org/ebooks/24025
